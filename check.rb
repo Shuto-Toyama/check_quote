@@ -11,3 +11,5 @@ User.find_or_create_by!(email: EMAIL) do |user|	User.find_or_create_by!(email: E
 end
 
 p "hello"
+
+p 'hi'
